@@ -1,0 +1,5 @@
+String Nome: "José Almeida da Silva",
+Long CPF: 12345678900,
+int RG: 9517530,
+double Altura: 1,78,
+String Endereço: "Rua A, 380 – Centro – Recife/PE"
